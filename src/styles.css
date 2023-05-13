@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.nav {
+  display: block;
+}
+.otherPages {
+  display: flex;
+  justify-content: flex-end;
+  color: black;
+
+  /* margin: 20px; */
+}
+#link {
+  margin-right: 5px;
+}
